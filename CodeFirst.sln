@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst", "CodeFirst\CodeFirst.csproj", "{1360629C-5504-4622-961F-1E2A4251E77B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1360629C-5504-4622-961F-1E2A4251E77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1360629C-5504-4622-961F-1E2A4251E77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1360629C-5504-4622-961F-1E2A4251E77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1360629C-5504-4622-961F-1E2A4251E77B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

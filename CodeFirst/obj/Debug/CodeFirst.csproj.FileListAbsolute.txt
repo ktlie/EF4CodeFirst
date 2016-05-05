@@ -1,0 +1,9 @@
+Z:\ASPNet\ASP.NET MVC 4.0\Self_Project\PragimTechnologies\EntityFramework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csprojResolveAssemblyReference.cache
+Z:\ASPNet\ASP.NET MVC 4.0\Self_Project\PragimTechnologies\EntityFramework\CodeFirst\CodeFirst\bin\CodeFirst.dll
+Z:\ASPNet\ASP.NET MVC 4.0\Self_Project\PragimTechnologies\EntityFramework\CodeFirst\CodeFirst\bin\CodeFirst.pdb
+Z:\ASPNet\ASP.NET MVC 4.0\Self_Project\PragimTechnologies\EntityFramework\CodeFirst\CodeFirst\bin\EntityFramework.dll
+Z:\ASPNet\ASP.NET MVC 4.0\Self_Project\PragimTechnologies\EntityFramework\CodeFirst\CodeFirst\bin\EntityFramework.SqlServer.dll
+Z:\ASPNet\ASP.NET MVC 4.0\Self_Project\PragimTechnologies\EntityFramework\CodeFirst\CodeFirst\bin\EntityFramework.xml
+Z:\ASPNet\ASP.NET MVC 4.0\Self_Project\PragimTechnologies\EntityFramework\CodeFirst\CodeFirst\bin\EntityFramework.SqlServer.xml
+Z:\ASPNet\ASP.NET MVC 4.0\Self_Project\PragimTechnologies\EntityFramework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.dll
+Z:\ASPNet\ASP.NET MVC 4.0\Self_Project\PragimTechnologies\EntityFramework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
